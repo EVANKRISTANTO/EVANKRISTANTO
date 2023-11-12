@@ -21,10 +21,6 @@
 
 <p>
     <a href="https://github.com/EVANKRISTANTO">
-        <img src="https://github-profile-trophy.vercel.app/?username=Rizsyad&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" />
+        <img src="https://github-profile-trophy.vercel.app/?username=EVANKRISTANTO&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="EVANDEV :: Tropy Stats" />
     </a>
 </p>
-
------
-Credits: [Rizsyad AR](https://github.com/Rizsyad)
-This README Remake 
